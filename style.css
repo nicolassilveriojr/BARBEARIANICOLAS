@@ -1,7 +1,7 @@
-body{
+body {
     margin: 0px;
     padding: 0px;
-font-family: sans-serif;
+    font-family: sans-serif;
 
 }
 
@@ -25,18 +25,27 @@ font-family: sans-serif;
     margin: 0px;
 }
 
-.titulo2{ 
+.titulo2 {
 
-  color: rgb(255, 0, 0);
+    color: rgb(255, 27, 68);
     font-family: sans-serif;
+    font-size: medium;
 
- }
+}
 
 
- .principal{
+.principal {
+    color: black;
+    background-color: rgb(230, 196, 153);
+    padding: 30px;
+    margin: 0px;
 
-background-color: rgb(230, 196, 153);
-padding: 30px;
-margin: 0px;
+}
 
- }
+.beneficios{
+
+    color: rgb(0, 0, 0);
+    background-color: rgb(230, 196, 153);
+
+
+}
