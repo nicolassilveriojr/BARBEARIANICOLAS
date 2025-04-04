@@ -20,7 +20,7 @@ font-family: sans-serif;
     text-transform: uppercase;
     text-align: center;
     color: rgb(255, 255, 255);
-    background-color: black;
+    background-color: rgb(230, 196, 153);
     padding: 50px;
     margin: 0px;
 }
@@ -35,6 +35,8 @@ font-family: sans-serif;
 
  .principal{
 
-background-color: rgb(86, 206, 206);
+background-color: rgb(230, 196, 153);
+padding: 30px;
+margin: 0px;
 
  }
