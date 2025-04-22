@@ -10,8 +10,7 @@
 
 .button{
     color: black;
-    background-color: yellow;
+    background-color: green;
     text-align: center;
-    padding: 0.5px;
-    margin: 1px;
+    size-adjust: 8px;
 }
