@@ -1,3 +1,23 @@
+body{
+margin: 0px;
+padding: 0px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+background-color: blue;
+color: black;
+
+}
+
+form{
+    text-align: center;
+    background-color: black;
+    width: 50%;
+    margin: auto;
+    display:block;
+    padding:20px
+
+}
+
+
 .Fale {
     color: rgb(53, 145, 199);
     background-color: rgb(0, 0, 0);
@@ -15,4 +35,11 @@
     height: 40px;
     width: 170px;
     font-size: 18px;
+}
+
+button a{
+    text-decoration: none;
+    color: white;
+    margin: 15px;
+    padding: 5px;
 }
