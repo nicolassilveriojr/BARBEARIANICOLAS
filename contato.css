@@ -12,5 +12,6 @@
     color: black;
     background-color: green;
     text-align: center;
-    size-adjust: 8px;
+    height: 25px;
+    width: 150px;
 }
