@@ -1,14 +1,14 @@
 body{
 margin: 0px;
 padding: 0px;
-background-color: #1b6335;
-color: #e1dd72;
+background-color: #000000;
+color: #ffffff;
 
 }
 
 form{
     text-align: center;
-    background-color: #a8c66c;
+    background-color: #4a4b4a;
     width: 50%;
     margin: auto;
     display:block;
