@@ -1,5 +1,5 @@
 header {
-   background: #000000;
+   background: #666666;
    padding: 20px 0;
 }
 
@@ -26,7 +26,7 @@ nav li {
 
 nav a {
    text-transform: uppercase;
-   color: #99a582;
+   color: #000000;
    font-weight: bold;
    font-size: 22px;
    text-decoration: none;
@@ -55,7 +55,7 @@ nav a:hover {
    margin: 0 1.5%;
    padding: 30px 20px;
    box-sizing: border-box;
-   border: 2px solid #000000;
+   border: 2px solid #ffffff;
    border-radius: 10px;
 }
 
@@ -71,7 +71,7 @@ nav a:hover {
 
 
 .produtos li:active {
-   border-color: #000000;
+   border-color: #ffffff;
 }
 
 
