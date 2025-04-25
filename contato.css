@@ -1,7 +1,7 @@
 body{
 margin: 0px;
 padding: 0px;
-background-color: rgb(255, 255, 255);
+background-color: purple;
 color: rgb(53, 145, 199);
 
 }
@@ -18,7 +18,7 @@ form{
 
 
 .Fale {
-    color: rgb(53, 145, 199);
+    color: greenyellow;
     background-color: rgb(0, 0, 0);
     text-transform: uppercase;
     text-align: center;
