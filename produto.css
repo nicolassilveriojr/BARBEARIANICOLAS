@@ -26,7 +26,7 @@ nav li {
 
 nav a {
    text-transform: uppercase;
-   color: brown;
+   color: #a8c66c;
    font-weight: bold;
    font-size: 22px;
    text-decoration: none;
@@ -55,13 +55,13 @@ nav a:hover {
    margin: 0 1.5%;
    padding: 30px 20px;
    box-sizing: border-box;
-   border: 2px solid #000000;
+   border: 2px solid #a8c66c;
    border-radius: 10px;
 }
 
 
 .produtos li:hover {
-   border-color: #C78C19;
+   border-color: #a8c66c;
 }
 
 
@@ -71,7 +71,7 @@ nav a:hover {
 
 
 .produtos li:active {
-   border-color: #088C19;
+   border-color: #a8c66c;
 }
 
 
